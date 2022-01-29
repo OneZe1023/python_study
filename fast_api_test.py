@@ -2,7 +2,7 @@
 #
 """
 启动指令
-uvicorn main:app --reload
+uvicorn fast_api_test:app --reload
 http://127.0.0.1:8000/docs
 """
 
